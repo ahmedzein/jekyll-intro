@@ -1,0 +1,16 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: orange;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+}
